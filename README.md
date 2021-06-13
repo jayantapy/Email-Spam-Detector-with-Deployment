@@ -1,3 +1,5 @@
+![EMail Spam](images.jpg)
+
 <h4> Email Spam Detection has been a very common and popular subject of interest in Classification problems. Basically we need to predict whether or not a certain email is Spam or Not Spam(or Ham) based on the textual data that is contained in the mail.</h4>
 
 
