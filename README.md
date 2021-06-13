@@ -9,4 +9,8 @@
 
 <h4> I used HTML and CSS, and well as Flask API to build the web page. The screenshots of the webpage is attached as below. </h4>
 
+![1](1.png)
+
+![2](2.png)
+
 <h4> Website Url: https://spam-detector-email.herokuapp.com/
