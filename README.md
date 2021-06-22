@@ -6,7 +6,7 @@
 
 <h4> AFter building the model, I used Heroku environment to deploy my model and built a GUI. This would enable the user to directly enter the message and know whether the message is spam or not. </h4>
 
-<h4> I used HTML and CSS, and well as Flask API to build the web pagefb. The screenshots of the webpage has been attached as below. </h4>
+<h4> I used HTML and CSS, and well as Flask API to build the web page. The screenshots of the webpage has been attached as below. </h4>
 
 ![1](1.png)
 
