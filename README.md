@@ -8,6 +8,5 @@
 
 ![1](1.png)
 
-![2](2.png)
 
 <h4> Website Url: https://spam-detector-email.herokuapp.com/
